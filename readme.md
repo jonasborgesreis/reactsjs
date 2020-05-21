@@ -1,19 +1,4 @@
-<div align="center">
-    <a href="https://www.leroymerlin.com.br" title="Leroy Merlin">
-        <img width=100 src="https://cdn.leroymerlin.com.br/assets/images/logo-leroy-merlin.svg" alt="Leroy Merlin"/>
-    </a>
-    <h1 align="center">Teste Frontend - Jonas Borges dos Reis</h1>
-</div>
-
-## O Candidato
-
-**Nome:** `Jonas Borges dos Reis`
-
-**E-mail:** `jonasb2010@gmail.com`
-
-**Usuário:** @jonasborgesreis
-
-## O Desafio
+- O Desafio
 O desafio consiste em implementar uma listagem de produtos que permita adicionar produtos no carrinho, ver e manipular a quantidade de items no carrinho.
 
 A página deve conter as seguintes funcionalidades:
