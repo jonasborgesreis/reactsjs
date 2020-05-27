@@ -228,39 +228,7 @@ Para comecar a desenvolver, basta executar o comando:
 yarn dev
 ```
 
-## Testando
-
-Para executar os testes da aplicação, estamos utilizando o `jest`, basta executar o comando:
-
-```js
-yarn test
-```
-
 e partir daí, é com você :sunglasses:
-
-## O que estamos procurando
-
-Esse desafio visa avaliar sua habilidade de escrever HTML, CSS e JS de forma clara e com código que seja de fácil entendimento para outras pessoas.
-
-Sua tarefa consiste em:
-
-- Escrever código bem estruturado, seguindo boas práticas;
-- Escrever testes para cobrir o código criado por você;
-- Escrever mensagens de _commit_ baseada no [guideline do angular](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines);
-- Desenvolver o layout responsivo;
-
-### Bônus
-
-_coisas que seriam legal encontrar_
-
-- Implementar testes e2e (end-to-end)
-- Storybook dos componentes
-
-## Entregando o teste
-
-Você deverá abrir um [_Merge Request_](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) (similar ao _Pull Request_ do GitHub) com a sua solução.
-Caso você não consiga fazer todos os requisitos que pedimos, não tem problema algum.
-Ao entregar, deixe explicado o que você não conseguiu fazer e o que mais achar que faz sentido.
 
 ## Dúvidas
 
