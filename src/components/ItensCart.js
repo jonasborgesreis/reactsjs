@@ -136,7 +136,7 @@ export default function ItensCart () {
             }
             <div className="list-cart-products">
               { itencart.length === 0 &&
-               <span className="cart-vazio">Carrinho vazio</span>
+               <span className="cart-empty">Carrinho vazio</span>
               }
               <ul>
                 {
